@@ -14,6 +14,9 @@ link for download: https://www.postgresql.org/download/
 psycopg2 version used in this program: 2.9.2 
 command => pip3 install psycopg2-binary OR conda install -c conda-forge psycopg2  
 
+5) Cloning from GitHub repository 
+command => git clone https://github.com/KosarL/DATA_311_MiniProject.git 
+
 
 
 **ABOUT THE PROGRAM**
